@@ -17,12 +17,10 @@
 
 - **Frontend:**
   - React.js for building interactive user interfaces.
-  - WebGL libraries like Three.js for 3D graphics.
   - jQuery for simplified DOM manipulation.
 
 - **Backend:**
   - Node.js with Express.js for the server-side application.
-
 
 
 ## 🚦 Getting Started
